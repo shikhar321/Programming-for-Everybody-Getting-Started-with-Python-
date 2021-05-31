@@ -1,2 +1,6 @@
-# Programming-for-Everybody-Getting-Started-with-Python-
-This Repository is meant and maintained so that learners can take an idea and understand the course- "Programming for Everybody (Getting Started with Python) by University of Michigan" on Coursera.
+# Programming for Everybody (Getting Started with Python)
+This course is part of the [Python for Everybody Specialization](https://www.coursera.org/specializations/python) which is available on [coursera](https://www.coursera.org/) offered by **University of Michigan**.
+
+  Here you will find my solutions of the assignments.
+
+:smile: Happy Learning!!!
